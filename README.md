@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I’m **JeypiiDev**
+### Full-Stack Developer | JavaScript | Node | MERN | Supabase
 
-<!--
-**pamplonajp45-eng/pamplonajp45-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I build real-world applications with modern JavaScript technologies.
 
-Here are some ideas to get you started:
+🌍 I’m passionate about creating systems that solve problems and improve workflows.  
+🚀 I work with both frontend and backend tools — from UI to API, database, and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+### 💻 Frontend
+- HTML, CSS, JavaScript
+- React
+
+### 🔧 Backend
+- Node.js, Express.js
+- PHP (for legacy/clinic system)
+
+### 🗄 Databases
+- MongoDB
+- Supabase (PostgreSQL & Auth)
+
+### 🛠 Tools
+- Git & GitHub
+- Postman
+- Vercel (deployment)
+- Supabase Studio
+
+---
+
+## 🚀 Featured Projects
+
+### ⭐ Must-See Live Projects
+| Project | Live | Description |
+|---------|------|-------------|
+| **MD Clinic Management System** | 🔗 https://mdclinicms2025.site/ | Full clinic system with appointments, records, user auth |
+| **jpdev-flash-cards** | 🔗 https://jpdev-flash-cards.vercel.app/ | Study flashcards web app |
+| **jpdev-habit-tracker** | — | Habit tracking app built in JS |
+| **Pill_reminder** | — | Daily medication reminder app |
+| **JeypiiDev Portfolio** | 🔗 https://jeypii-dev.vercel.app | My frontend portfolio |
+
+---
+
+## 🖥️ Backend APIs & Dev Tools
+
+- **Express + Node API projects**
+- **MongoDB integrated systems**
+- **Postman for API design & testing**
+- **Supabase for backend services:**
+  - Auth
+  - Realtime database
+  - Hosting
+
+*(These are used across different repos you have — showing versatility & backend experience)*
+
+---
+
+## 📫 Connect With Me
+
+📍 Tanauan City, Batangas  
+💬 *“Coding saves lives!”*  
+📫 Always open to collaborate, learn, and build.
+
+---
+
+Thank you for visiting! 🚀  
