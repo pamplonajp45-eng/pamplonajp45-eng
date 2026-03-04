@@ -1,29 +1,29 @@
-# 👋 Hi, I’m Jordan O. Pamplona **(JeypiiDev)**
+#  Hi, I’m Jordan O. Pamplona **(JeypiiDev)**
 ### Full-Stack Developer | JavaScript | Node | MERN | Supabase
 
-✨ I build real-world applications with modern JavaScript technologies.
+ I build real-world applications with modern JavaScript technologies.
 
-🌍 I’m passionate about creating systems that solve problems and improve workflows.  
-🚀 I work with both frontend and backend tools — from UI to API, database, and deployment.
+ I’m passionate about creating systems that solve problems and improve workflows.  
+ I work with both frontend and backend tools — from UI to API, database, and deployment.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 💻 Frontend
+###  Frontend
 - HTML, CSS, JavaScript
 - React
 
-### 🔧 Backend
+###  Backend
 - Node.js, Express.js
 - PHP (for legacy/clinic system)
 
-### 🗄 Databases
+###  Databases
 - MySQL
 - MongoDB
 - Supabase (PostgreSQL & Auth)
 
-### 🛠 Tools
+###  Tools
 - Git & GitHub
 - Postman
 - Vercel (deployment)
@@ -31,20 +31,20 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ⭐ Must-See Live Projects
+###  Must-See Live Projects
 | Project | Live | Description |
 |---------|------|-------------|
-| **MD Clinic Management System** | 🔗 https://mdclinicms2025.site/ | Full clinic system with appointments, records, user auth |
-| **jpdev-flash-cards** | 🔗 https://jpdev-flash-cards.vercel.app/ | Study flashcards web app |
-| **jpdev-habit-tracker** |🔗 https://jpdev-habit-tracker.vercel.app/ | Habit tracking app built in JS |
+| **jpdev-habit-tracker** |🔗 https://jpdev-habit-tracker.vercel.app/ | Habit tracking app w/ social media features |
+| **Web Development of Medical and Dental Clinic Management System** | 🔗 https://mdclinicms2025.site/ | Full clinic system with appointments, records, user auth |
+| **jpdev-flash-cards** | 🔗 https://jpdev-flash-cards.vercel.app/ | Study nihonggo using flashcards w/ A.I integration. web app |
 | **Pill_reminder** | 🔗 https://luno-pillreminderapp.vercel.app/ | Daily medication reminder app |
 | **JeypiiDev Portfolio** | 🔗 https://jeypii-dev.vercel.app | My frontend portfolio |
 
 ---
 
-## 🖥️ Backend APIs & Dev Tools
+##  Backend APIs & Dev Tools
 
 - **Express + Node API projects**
 - **MongoDB integrated systems**
@@ -58,11 +58,11 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-📍 Tanauan City, Batangas  
-💬 *“Coding saves lives!”*  
-📫 Always open to collaborate, learn, and build.
+ Tanauan City, Batangas  
+*“Coding saves lives!”*  
+ Always open to collaborate, learn, and build.
 
 ---
 
