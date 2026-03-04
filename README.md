@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **JeypiiDev**
+# 👋 Hi, I’m Jordan O. Pamplona **(JeypiiDev)**
 ### Full-Stack Developer | JavaScript | Node | MERN | Supabase
 
 ✨ I build real-world applications with modern JavaScript technologies.
@@ -19,6 +19,7 @@
 - PHP (for legacy/clinic system)
 
 ### 🗄 Databases
+- MySQL
 - MongoDB
 - Supabase (PostgreSQL & Auth)
 
@@ -37,8 +38,8 @@
 |---------|------|-------------|
 | **MD Clinic Management System** | 🔗 https://mdclinicms2025.site/ | Full clinic system with appointments, records, user auth |
 | **jpdev-flash-cards** | 🔗 https://jpdev-flash-cards.vercel.app/ | Study flashcards web app |
-| **jpdev-habit-tracker** | — | Habit tracking app built in JS |
-| **Pill_reminder** | — | Daily medication reminder app |
+| **jpdev-habit-tracker** |🔗 https://jpdev-habit-tracker.vercel.app/ | Habit tracking app built in JS |
+| **Pill_reminder** | 🔗 https://luno-pillreminderapp.vercel.app/ | Daily medication reminder app |
 | **JeypiiDev Portfolio** | 🔗 https://jeypii-dev.vercel.app | My frontend portfolio |
 
 ---
