@@ -1,5 +1,5 @@
 #  Hi, I’m Jordan O. Pamplona **(JeypiiDev)**
-### Full-Stack Developer | JavaScript | Node | MERN | Supabase
+### Full-Stack Developer 
 
  I build real-world applications with modern JavaScript technologies.
 
