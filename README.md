@@ -1,69 +1,72 @@
-#  Hi, I’m Jordan O. Pamplona **(JeypiiDev)**
-### Full-Stack Developer 
+# Hi, I’m Jordan O. Pamplona *(JeypiiDev)*  
+### Full-Stack Developer  
 
- I build real-world applications with modern JavaScript technologies.
+I build practical, real-world applications using modern JavaScript technologies.  
+Focused on creating systems that solve problems, streamline workflows, and deliver clean user experiences.  
 
- I’m passionate about creating systems that solve problems and improve workflows.  
- I work with both frontend and backend tools — from UI to API, database, and deployment.
-
----
-
-##  Tech Stack
-
-###  Frontend
-- HTML, CSS, JavaScript
-- React
-
-###  Backend
-- Node.js, Express.js
-- PHP (for legacy/clinic system)
-
-###  Databases
-- MySQL
-- MongoDB
-- Supabase (PostgreSQL & Auth)
-
-###  Tools
-- Git & GitHub
-- Postman
-- Vercel (deployment)
-- Supabase Studio
+I work across the full stack — from UI design to backend logic, databases, and deployment.
 
 ---
 
-##  Featured Projects
+## 🚀 Tech Stack  
 
-###  Must-See Live Projects
-| Project | Live | Description |
-|---------|------|-------------|
-| **jpdev-habit-tracker** |🔗 https://jpdev-habit-tracker.vercel.app/ | Habit tracking app w/ social media features |
-| **Web Development of Medical and Dental Clinic Management System** | 🔗 https://mdclinicms2025.site/ | Full clinic system with appointments, records, user auth |
-| **jpdev-flash-cards** | 🔗 https://jpdev-flash-cards.vercel.app/ | Study nihonggo using flashcards w/ A.I integration. web app |
-| **Pill_reminder** | 🔗 https://luno-pillreminderapp.vercel.app/ | Daily medication reminder app |
-| **JeypiiDev Portfolio** | 🔗 https://jeypii-dev.vercel.app | My frontend portfolio |
+**Frontend**  
+- HTML, CSS, JavaScript  
+- React  
 
----
+**Backend**  
+- Node.js, Express.js  
+- PHP *(Clinic Management System)*  
 
-##  Backend APIs & Dev Tools
+**Databases**  
+- MySQL  
+- MongoDB  
+- Supabase *(PostgreSQL, Authentication)*  
 
-- **Express + Node API projects**
-- **MongoDB integrated systems**
-- **Postman for API design & testing**
-- **Supabase for backend services:**
-  - Auth
-  - Realtime database
-  - Hosting
-
-*(These are used across different repos you have — showing versatility & backend experience)*
+**Tools & Platforms**  
+- Git & GitHub  
+- Postman  
+- Vercel  
+- Supabase Studio  
 
 ---
 
-##  Connect With Me
+## 🌟 Featured Projects  
 
- Tanauan City, Batangas  
-*“Coding saves lives!”*  
- Always open to collaborate, learn, and build.
+### 🔗 Live Applications  
+
+| Project | Link | Description |
+|--------|------|-------------|
+| **jpdev-habit-tracker** | https://jpdev-habit-tracker.vercel.app/ | Habit tracking app with social-style features |
+| **Medical & Dental Clinic Management System** | https://mdclinicms2025.site/ | Full system for appointments, patient records, and authentication |
+| **jpdev-flash-cards** | https://jpdev-flash-cards.vercel.app/ | Japanese learning app with flashcards and AI integration |
+| **Pill Reminder App** | https://luno-pillreminderapp.vercel.app/ | Daily medication reminder for consistent tracking |
+| **JeypiiDev Portfolio** | https://jeypii-dev.vercel.app | Personal frontend portfolio |
 
 ---
 
-Thank you for visiting! 🚀  
+## ⚙️ Backend & Development Experience  
+
+- RESTful API development using **Node.js + Express**  
+- Database integration with **MongoDB & MySQL**  
+- API testing and design using **Postman**  
+- Backend-as-a-Service using **Supabase**:
+  - Authentication  
+  - Realtime database  
+  - Hosting  
+
+---
+
+## 📍 About Me  
+
+📍 Tanauan City, Batangas  
+💡 *“Coding saves lives.”*  
+
+I’m continuously learning, building, and improving my skills.  
+Open to opportunities, collaborations, and real-world projects.
+
+---
+
+## 🤝 Let’s Connect  
+
+Feel free to explore my projects or reach out—I'm always open to learning and building something impactful.
