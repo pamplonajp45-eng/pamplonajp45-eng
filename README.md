@@ -1,5 +1,5 @@
 # Hi, I’m Jordan O. Pamplona *(JeypiiDev)*  
-### Full-Stack Developer  
+### Associate Full-Stack Developer  
 
 I build practical, real-world applications using modern JavaScript technologies.  
 Focused on creating systems that solve problems, streamline workflows, and deliver clean user experiences.  
